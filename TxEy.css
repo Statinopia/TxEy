@@ -22,13 +22,13 @@ The 2 items above are not owned by me, They go to there respected owners
 #app-mount {background-image: var(--background)!important; background-position: center!important; background-size: cover!important; background-color: transparent!important;}
 
 /*Home*/
-.tabBar-1E2ExX .primarySelected-3uHKZn {color: red!important;}
-.topPill-30KHOu .selected-3s45Ha {background-color: red!important; color: white!important;}
+.tabBar-1E2ExX .primarySelected-3uHKZn {color: cyan!important;}
+.topPill-30KHOu .selected-3s45Ha {background-color: cyan!important; color: white!important;}
 
 .root-1BQpZw {background-image: var(--transparency-1)!important; background-color: transparent!important;}
 .container-1r6BKw {background: transparent!important;}
 
-.friendsActionRemove-qu8nnl {background-color: red!important;}
+.friendsActionRemove-qu8nnl {background-color: cyan!important;}
 .friendsActionVoiceCall-3EdPsR {background-color: rgb(114,137,218)!important;}
 .friendsActionVideoCall-2_PKeP {background-color: rgb(29,185,84)!important;}
 
@@ -60,7 +60,7 @@ The 2 items above are not owned by me, They go to there respected owners
 .theme-dark .acronym-2mOFsV.selected-bZ3Lue {background-color: rgba(100,100,100,0.3)!important}
 .wrapper-1BJsBx.selected-wSa2KV {background-color: rgba(100,100,100,0.3)!important}
 
-.numberBadge-2s8kKX {background-color: red!important}
+.numberBadge-2s8kKX {background-color: cyan!important}
 
 .pill-31IEus .item-2hkk8m {background-color: rgba(100,100,100,0.7)}
 
@@ -93,7 +93,7 @@ The 2 items above are not owned by me, They go to there respected owners
 		.buttonDisconnect-3W_SJc {background-color: rgba(100,0,0,0.9)!important;}
 
 		/*VC User*/
-		.avatarSpeaking-3MqCHLt {box-shadow:0 0 0 2px red; }
+		.avatarSpeaking-3MqCHLt {box-shadow:0 0 0 2px cyan; }
 
 		.voiceUser-14U_Ns {transition: margin 0.2s; transition-timing-function: ease-in-out; margin-left: 0; padding-right: 5px}
 		.voiceUser-14U_Ns:hover {background-color: rgba(50,50,50,0.3)!important; border-radius: 2px; margin-left: 20px;}
@@ -101,27 +101,27 @@ The 2 items above are not owned by me, They go to there respected owners
 		.voiceUser-14U_Ns .content-3xS9Lh:hover {background-color: transparent!important;}
 
 /*Messages*/
-.h1-1IDj26 {color: red!important;}
-.hasMore-3e72_v button {background-color: rgba(50,50,50,0.5)!important; color: red;}
-.wrapperHover-1GktnT , .mention {background-color: rgba(150,0,0,0.2)!important; color: red!important;}
+.h1-1IDj26 {color: cyan!important;}
+.hasMore-3e72_v button {background-color: rgba(50,50,50,0.5)!important; color: cyan;}
+.wrapperHover-1GktnT , .mention {background-color: rgba(150,0,0,0.2)!important; color: cyan!important;}
 .isMentionedCozy-3isp7y {background-color: rgba(150,0,0,0.3)!important;}
-.isMentionedCozy-3isp7y:after {background: red; border-left: 4px solid red; width: 1px;}
+.isMentionedCozy-3isp7y:after {background: cyan; border-left: 4px solid cyan; width: 1px;}
 code , pre {background-color: rgba(50,50,50,0.3)!important}
 
 .messageGroupBlocked-3wrQQX {background-color: rgba(50,50,50,0.5)!important;}
-.messageGroupBlockedBtn-1PBBh- {background-color: transparent!important; color: red!important;}
+.messageGroupBlockedBtn-1PBBh- {background-color: transparent!important; color: cyan!important;}
 
 .noticeRegion-1YviSH {margin: auto;}
-.lookLink-9FtZy- , .anchor-3Z-8Bb , .bda-link {color: red!important;}
+.lookLink-9FtZy- , .anchor-3Z-8Bb , .bda-link {color: cyan!important;}
 .embedProviderLink-2Pq1Uw {color: rgb(150,150,150)!important;}
 
-.unreadMentionsBar-1VrBNe {background-color: red;}
+.unreadMentionsBar-1VrBNe {background-color: cyan;}
 .selected-ML3OIq:before {background-color: rgb(100,100,100)!important; border-radius: 0!important;}
 .unread-qLkInr:before {background-color: rgb(150,0,0)!important; border-radius: 0!important;}
 
 .channelTextArea-1LDbYG .inner-zqa7da , .autocomplete-1vrmpx, .attachPopout-1n-ZKM {background-color: rgba(50,50,50,0.5)!important;}
 
-.newMessagesBar-mujexs {background-color: red} 
+.newMessagesBar-mujexs {background-color: cyan} 
 .newMessagesBar-mujexs:hover {background-color: rgb(255,50,50)}
 .newMessagesBar-mujexs:active {background-color: rgb(255,100,100)}
 
@@ -138,37 +138,37 @@ code , pre {background-color: rgba(50,50,50,0.3)!important}
 .item-1GzJrl:hover , .item-1Yvehc:hover {background-color: rgba(30,30,30,0.7)!important}
 .separator-2zcjq8 {background-color: rgb(100,0,0)}
 .danger-2dXSTE:hover {background-color: rgba(100,0,0,0.6)!important}
-input[type=checkbox]:checked+span,.checkbox-1ix_J3{border-color:red!important;background-color:red!important}
+input[type=checkbox]:checked+span,.checkbox-1ix_J3{border-color:cyan!important;background-color:cyan!important}
 
 /*Server Menu*/
 .leave-1DRJfn:hover {background-color: rgba(100,0,0,0.5)!important;}
 .invite-271nFU:hover {background-color: rgba(114,137,218,0.5)!important;}
 
 /*Server Members*/
-.membersGroup-v9BXpm {background-color: rgba(0,0,0,0.5); margin: 20px 8px 0 16px; padding: 0; height: 20px; text-align: center; border-radius: 10px; color: red!important;}
+.membersGroup-v9BXpm {background-color: rgba(0,0,0,0.5); margin: 20px 8px 0 16px; padding: 0; height: 20px; text-align: center; border-radius: 10px; color: cyan!important;}
 .member-3W1lQa , .channel-2QD9_O a {margin-left: 0px; border-radius: 50px 0 0 50px!important; transition: margin 0.2s; transition-timing-function: ease-in-out;}
 .member-3W1lQa:hover , .channel-2QD9_O a:hover {background-color: rgba(50,50,50,0.6)!important; margin-left: 15px}
 .popout-open.member-3W1lQa {background-color: rgba(100,100,100,0.6)!important; margin-left: 15px}
 
 /*Inputs*/
 .lookFilled-1Gx00P, .valueChecked-m-4IJZ, .bd-pfbtn, .checked, .bda-settings-button , .addButton-pcyyf6 , .tabBar-1E2ExX .primary-3j8BhM , .da-selected[style*="rgb(114, 137, 218)"] {background-color: red!important;}
-.barFill-23-gu- , .itemSelected-1qLhcL.da-role {background-color: red}
-.inputDefault-_djjkz:focus , .focused-1mmYsC {border-color: red!important}
-.questionMark-CWEQZn {background-color: red!important; margin-bottom: 4px}
+.barFill-23-gu- , .itemSelected-1qLhcL.da-role {background-color: cyan}
+.inputDefault-_djjkz:focus , .focused-1mmYsC {border-color: cyan!important}
+.questionMark-CWEQZn {background-color: cyan!important; margin-bottom: 4px}
 
 .item-26Dhrx .checkboxWrapper-SkhIWG .checked-3_4uQ9 {background-color: white!important; border-color: transparent!important;}
 
 .search-bar , .searchBar-2_Yu-C {background-color: rgba(50,50,50,0.6)!important;}
 
-.item-26Dhrx[style*="rgb(114, 137, 218)"] {background-color: red!important; border-color: red!important;} 
+.item-26Dhrx[style*="rgb(114, 137, 218)"] {background-color: cyan!important; border-color: cyan!important;} 
 .checked-3_4uQ9 {border-color: transparent!important;}
-polyline[stroke='#7289da']{stroke:red}
+polyline[stroke='#7289da']{stroke:cyan}
 .item-26Dhrx[style*="rgb(114, 137, 218)"] label .checkbox-1ix_J3 {background-color: white!important; border-color: transparent!important;}
 .checkbox-1ix_J3 {background-color: transparent!important; border: 2px solid; border-color: rgba(50,50,50,0.5)!important;}
 
-.wrapper-3jrx9n {border-color: red!important;}
+.wrapper-3jrx9n {border-color: cyan!important;}
 .option-n0icdO:hover {background-color: rgba(150,0,0,0.8);}
-.selected-mKYnfr {background-color: red!important;}
+.selected-mKYnfr {background-color: cyan!important;}
 .da-disabled {background-color: transparent!important;}
 
 /*Settings*/
@@ -193,12 +193,12 @@ polyline[stroke='#7289da']{stroke:red}
 
 .content-1rPSz4 {padding-top: 20px!important;} 
 
-a[target="_blank"] {color: red;}
+a[target="_blank"] {color: cyan;}
 
-.foreground-2aE44H {stroke: red;}
+.foreground-2aE44H {stroke: cyan;}
 .previewOverlay-2O7_KC , .formNotice-2_hHWR {background-color: rgba(50,50,50,0.5)!important}
 .media-engine-video {background: transparent!important;}
-.avatarUploaderInner-3UNxY3 {background-color:red!important;}
+.avatarUploaderInner-3UNxY3 {background-color:cyan!important;}
 
 	/*CustomCSS*/
 	.ace_editor {background-color: rgba(0,0,0,0.2)!important}
@@ -211,10 +211,10 @@ a[target="_blank"] {color: red;}
 	.checkbox-3kaeSU {padding-left: 1px}
 	#bd-customcss-detach-controls-button button {border: 0!important; border-radius: 10px!important; margin-right: 5px!important; transition: 0.1s background-color ease-in-out}
 	#bd-customcss-detach-controls-button button:hover {background-color: rgb(100,100,100)!important}
-	#bd-customcss-detach-controls-button button:active {background-color: red!important}
+	#bd-customcss-detach-controls-button button:active {background-color: cyan!important}
 
 	#bd-customcss-detach-container {background-color: rgba(0,0,0,0.7)}
-	#editor-detached button {background-color: red!important}
+	#editor-detached button {background-color: cyan!important}
 
 /*ChangeLog And Other Popups*/
 .modal-yWgWj- , .bd-modal-inner , .messagesPopoutWrap-1MQ1bW , .messageGroupWrapper-o-Zw7G , .container-3ayLPN , .searchResultsWrap-2DKFzt , .quickswitcher-3JagVE , 
@@ -243,7 +243,7 @@ a[target="_blank"] {color: red;}
 	button.lookFilled-1Gx00P[type=submit] {color: white!important;}
 	.uploadModal-2ifh8j .footer-3mqk7D .button {height: 39px; margin-right: 5px; background-color: rgba(100,100,100,0.5)}
 	.inner-zqa7da {background-color: rgba(100,100,100,0.5)!important}
-	.image-2yrs5j {border-color: red!important;}
+	.image-2yrs5j {border-color: cyan!important;}
 
 	.instructions-2Du9gG pre {background-color: transparent!important;}
 	.uploadDropModal-2kTwbc.error-kKl9o2 {background-color: rgba(240, 71, 71,0.5)!important;}
@@ -256,11 +256,11 @@ a[target="_blank"] {color: red;}
 	.searchResult-3pzFAB:before {border-radius: 10px;}
 	.option-96V44q:after {background-image: none!important;}
 
-	.react-datepicker__day:hover {background-color: red!important}
+	.react-datepicker__day:hover {background-color: cyan!important}
 	.react-datepicker__day--disabled , .react-datepicker__day--outside-month {background-color: rgba(10,10,10,0.5)!important}
 	.react-datepicker__day--disabled:hover , .react-datepicker__day--outside-month:hover {background-color: rgba(255,0,0,0.5)!important}
-	.react-datepicker__day--selected::after {background-color: red!important}
-	.hintValue-29ny8Z {background-color: red!important}
+	.react-datepicker__day--selected::after {background-color: cyan!important}
+	.hintValue-29ny8Z {background-color: cyan!important}
 
 	/*Join & Create Server Popup*/
 	.animator-US5i9g .modal-3HD5ck {background-color: transparent!important}
@@ -281,7 +281,7 @@ a[target="_blank"] {color: red;}
 	.header-1nkwgG .searchBarInner-1_Tg2R input {color: white!important;}
 	::-webkit-input-placeholder {color: rgba(255,255,255,0.5)!important;}
 	.stickyHeader-1SS0JU {background-color: rgba(0,0,0,0.5)!important; border-radius: 0 0 10px 10px}
-	.categories-1feg4n .selected-39BZ4S {border-color: red!important}
+	.categories-1feg4n .selected-39BZ4S {border-color: cyan!important}
 	.emojiPicker-3m1S-j ::-webkit-scrollbar-track {background-color: transparent!important;}
 
 	#bda-qem button {color: white; box-shadow: 0 0 0 0!important; border: 0!important;}
@@ -289,8 +289,8 @@ a[target="_blank"] {color: red;}
 	#bda-qem button.active {background-color: rgba(150,150,150,0.5)!important;}
 
 	/*BBD ContentErrors and Other BBD Modals*/
-	.error-link {color: red;}
-	.bd-modal-inner button {background-color: red!important}
+	.error-link {color: cyan;}
+	.bd-modal-inner button {background-color: cyan!important}
 
 /*TopBar*/
 .typeWindows-1za-n7 , .notice-2FJMB4 {background-color: rgba(0,0,0,0.7); border-bottom: 2px solid rgb(100,0,0); height: 30px}
