@@ -103,8 +103,8 @@ The 2 items above are not owned by me, They go to there respected owners
 /*Messages*/
 .h1-1IDj26 {color: purple!important;}
 .hasMore-3e72_v button {background-color: rgba(50,50,50,0.5)!important; color: purple;}
-.wrapperHover-1GktnT , .mention {background-color: rgba(150,0,0,0.2)!important; color: purple!important;}
-.isMentionedCozy-3isp7y {background-color: rgba(150,0,0,0.3)!important;}
+.wrapperHover-1GktnT , .mention {background-color: rgba(139,0,139,0.2)!important; color: purple!important;}
+.isMentionedCozy-3isp7y {background-color: rgba(139,0,139,0.3)!important;}
 .isMentionedCozy-3isp7y:after {background: purple; border-left: 4px solid purple; width: 1px;}
 code , pre {background-color: rgba(50,50,50,0.3)!important}
 
@@ -117,7 +117,7 @@ code , pre {background-color: rgba(50,50,50,0.3)!important}
 
 .unreadMentionsBar-1VrBNe {background-color: purple;}
 .selected-ML3OIq:before {background-color: rgb(100,100,100)!important; border-radius: 0!important;}
-.unread-qLkInr:before {background-color: rgb(150,0,0)!important; border-radius: 0!important;}
+.unread-qLkInr:before {background-color: rgb(139,0,139)!important; border-radius: 0!important;}
 
 .channelTextArea-1LDbYG .inner-zqa7da , .autocomplete-1vrmpx, .attachPopout-1n-ZKM {background-color: rgba(50,50,50,0.5)!important;}
 
@@ -127,9 +127,9 @@ code , pre {background-color: rgba(50,50,50,0.3)!important}
 
 
 /*ScrollBars*/
-::-webkit-scrollbar-thumb {background-color: rgba(150,0,0,0.6)!important; border-color: transparent!important;}
+::-webkit-scrollbar-thumb {background-color: rgba(139,0,139,0.6)!important; border-color: transparent!important;}
 .messagesWrapper-3lZDfY ::-webkit-scrollbar-track-piece , .friendsTable-133bsv ::-webkit-scrollbar-track-piece , .gameLibrary-TTDw4Y ::-webkit-scrollbar-track-piece {background-color: transparent!important; border-color: transparent!important;}
-.messagesWrapper-3lZDfY ::-webkit-scrollbar-track , .friendsTable-133bsv ::-webkit-scrollbar-track , .gameLibrary-TTDw4Y ::-webkit-scrollbar-track {background-color: rgba(150,0,0,0.4)!important; border-radius: 10px; border-color: rgba(150,0,0,0.4)!important}
+.messagesWrapper-3lZDfY ::-webkit-scrollbar-track , .friendsTable-133bsv ::-webkit-scrollbar-track , .gameLibrary-TTDw4Y ::-webkit-scrollbar-track {background-color: rgba(139,0,139,0.4)!important; border-radius: 10px; border-color: rgba(139,0,139,0.4)!important}
 
 .applicationStore-1pNvnv ::-webkit-scrollbar-track , .activityFeed-28jde9 ::-webkit-scrollbar-track {background-color: transparent!important;}
 
