@@ -48,10 +48,10 @@ The 2 items above are not owned by me, They go to there respected owners
 .theme-dark .acronym-2mOFsV {background-color: rgba(100,100,100,0.2);}
 .wrapper-1BJsBx {background-color: transparent!important}
 
-.theme-dark .acronym-2mOFsV:hover {background-color: rgba(139,0,139,0.3)!important;}
+.theme-dark .acronym-2mOFsV:hover {background-color: rgba(139,0,139,0.1)!important;}
 
 .folder .wrapper-1BJsBx {background-color: rgba(100,100,100,0.2)!important; transition: background-color .15s ease-out;}
-.folder .wrapper-1BJsBx:hover {background-color: rgba(139,0,139,0.3)!important;}
+.folder .wrapper-1BJsBx:hover {background-color: rgba(139,0,139,0.1)!important;}
 
 .expandedFolderBackground-2sPsd- {background-color: rgba(100,100,100,0.2)!important;}
 .expandedFolderBackground-2sPsd-.collapsed-1GMuSb {background-color: transparent!important; transition: background-color .15s ease-out;}
@@ -67,10 +67,10 @@ The 2 items above are not owned by me, They go to there respected owners
  #bd-pub-li .wrapper-25eVIn {background-color: rgba(100,100,100,0.3)}
 
 .circleIconButton-jET_ig {background-color: rgba(100,100,100,0.3)!important; color: white;}
-.circleIconButton-jET_ig:hover {background-color: rgba(139,0,139,0.3)!important;}
+.circleIconButton-jET_ig:hover {background-color: rgba(139,0,139,0.1)!important;}
 
 /*Channels*/
-.containerDefault-3GGEv_ {background-color: rgba(139,0,139,0.5); height: 30px; text-align: center; border-radius: 10px; padding: 5px 5px 0 5px;}
+.containerDefault-3GGEv_ {background-color: rgba(139,0,139,0.1); height: 30px; text-align: center; border-radius: 10px; padding: 5px 5px 0 5px;}
 
 .container-3baos1 , .container-1giJp5 {background-image: var(--transparency-1)!important; background-color: rgba(0,0,0,0)!important; margin-bottom: 0;}
 .panels-j1Uci_ {background-color: transparent;}
@@ -84,13 +84,13 @@ The 2 items above are not owned by me, They go to there respected owners
 	/*Voice*/
 	.containerDefault-1ZnADq .modeConnected-2IEL4z div.content-3at_AU {width: 100%; background-color: rgba(50,50,50,0.6)!important;}
 	.containerDefault-1ZnADq .modeLocked-SZJhTy div.content-3at_AU,
-	.containerDefault-1ZnADq .modeMuted-3osy7j div.content-3at_AU {background-color: rgba(139,0,139,0.2)!important;}
+	.containerDefault-1ZnADq .modeMuted-3osy7j div.content-3at_AU {background-color: rgba(139,0,139,0.1)!important;}
 
 	.list-2bwCXU { padding-left: 10px; }
 
 		/*VC Info*/
 		.container-1UB9sr {background-color: rgba(0,0,0,0.55)!important; border: 0;}
-		.buttonDisconnect-3W_SJc {background-color: rgba(139,0,139,0.9)!important;}
+		.buttonDisconnect-3W_SJc {background-color: rgba(139,0,139,0.1)!important;}
 
 		/*VC User*/
 		.avatarSpeaking-3MqCHLt {box-shadow:0 0 0 2px purple; }
@@ -103,8 +103,8 @@ The 2 items above are not owned by me, They go to there respected owners
 /*Messages*/
 .h1-1IDj26 {color: purple!important;}
 .hasMore-3e72_v button {background-color: rgba(50,50,50,0.5)!important; color: purple;}
-.wrapperHover-1GktnT , .mention {background-color: rgba(139,0,139,0.2)!important; color: purple!important;}
-.isMentionedCozy-3isp7y {background-color: rgba(139,0,139,0.3)!important;}
+.wrapperHover-1GktnT , .mention {background-color: rgba(139,0,139,0.1)!important; color: purple!important;}
+.isMentionedCozy-3isp7y {background-color: rgba(139,0,139,0.1)!important;}
 .isMentionedCozy-3isp7y:after {background: purple; border-left: 4px solid purple; width: 1px;}
 code , pre {background-color: rgba(50,50,50,0.3)!important}
 
@@ -127,9 +127,9 @@ code , pre {background-color: rgba(50,50,50,0.3)!important}
 
 
 /*ScrollBars*/
-::-webkit-scrollbar-thumb {background-color: rgba(139,0,139,0.6)!important; border-color: transparent!important;}
+::-webkit-scrollbar-thumb {background-color: rgba(139,0,139,0.1)!important; border-color: transparent!important;}
 .messagesWrapper-3lZDfY ::-webkit-scrollbar-track-piece , .friendsTable-133bsv ::-webkit-scrollbar-track-piece , .gameLibrary-TTDw4Y ::-webkit-scrollbar-track-piece {background-color: transparent!important; border-color: transparent!important;}
-.messagesWrapper-3lZDfY ::-webkit-scrollbar-track , .friendsTable-133bsv ::-webkit-scrollbar-track , .gameLibrary-TTDw4Y ::-webkit-scrollbar-track {background-color: rgba(139,0,139,0.4)!important; border-radius: 10px; border-color: rgba(139,0,139,0.4)!important}
+.messagesWrapper-3lZDfY ::-webkit-scrollbar-track , .friendsTable-133bsv ::-webkit-scrollbar-track , .gameLibrary-TTDw4Y ::-webkit-scrollbar-track {background-color: rgba(139,0,139,0.1)!important; border-radius: 10px; border-color: rgba(139,0,139,0.1)!important}
 
 .applicationStore-1pNvnv ::-webkit-scrollbar-track , .activityFeed-28jde9 ::-webkit-scrollbar-track {background-color: transparent!important;}
 
@@ -137,11 +137,11 @@ code , pre {background-color: rgba(50,50,50,0.3)!important}
 .menu-Sp6bN1 , .contextMenu-HLZMGh {background-color: rgba(10,10,10,0.6)!important}
 .item-1GzJrl:hover , .item-1Yvehc:hover {background-color: rgba(30,30,30,0.7)!important}
 .separator-2zcjq8 {background-color: rgb(139,0,139)}
-.danger-2dXSTE:hover {background-color: rgba(139,0,139,0.6)!important}
+.danger-2dXSTE:hover {background-color: rgba(139,0,139,0.1)!important}
 input[type=checkbox]:checked+span,.checkbox-1ix_J3{border-color:purple!important;background-color:purple!important}
 
 /*Server Menu*/
-.leave-1DRJfn:hover {background-color: rgba(139,0,139,0.5)!important;}
+.leave-1DRJfn:hover {background-color: rgba(139,0,139,0.1)!important;}
 .invite-271nFU:hover {background-color: rgba(114,137,218,0.5)!important;}
 
 /*Server Members*/
@@ -167,7 +167,7 @@ polyline[stroke='#7289da']{stroke:purple}
 .checkbox-1ix_J3 {background-color: transparent!important; border: 2px solid; border-color: rgba(50,50,50,0.5)!important;}
 
 .wrapper-3jrx9n {border-color: purple!important;}
-.option-n0icdO:hover {background-color: rgba(139,0,139,0.8);}
+.option-n0icdO:hover {background-color: rgba(139,0,139,0.1);}
 .selected-mKYnfr {background-color: purple!important;}
 .da-disabled {background-color: transparent!important;}
 
@@ -175,7 +175,7 @@ polyline[stroke='#7289da']{stroke:purple}
 .sidebar-CFHs9e .side-8zPYf6 .item-PXvHYJ, .ui-tab-bar-item {line-height:15px!important; background-color: rgba(150,150,150,0.07); width: 100%; transition: width 0.2s; transition-timing-function: ease-in-out;}
 .sidebar-CFHs9e .side-8zPYf6 .item-PXvHYJ:hover, .ui-tab-bar-item:hover {background-color: rgba(150,150,150,0.2)!important; width:187px;}
 .sidebar-CFHs9e .side-8zPYf6 .selected-3s45Ha, .ui-tab-bar-item.selected {line-height:15px!important; background-color: rgba(150,150,150,0.4)!important; width:187px;}
-.sidebar-CFHs9e .side-8zPYf6 .header-2RyJ0Y, .ui-tab-bar-header {background-color: rgba(139,0,139,0.5); border-radius: 3px; line-height:28px!important; padding:0 0 0 10px!important}
+.sidebar-CFHs9e .side-8zPYf6 .header-2RyJ0Y, .ui-tab-bar-header {background-color: rgba(139,0,139,0.1); border-radius: 3px; line-height:28px!important; padding:0 0 0 10px!important}
 .ui-tab-bar-item {margin-bottom: 2px!important}
 
 .sidebar-CFHs9e {padding: 20px 18px 20px 23px ;width: 210px }
@@ -204,8 +204,8 @@ a[target="_blank"] {color: purple;}
 	.ace_editor {background-color: rgba(0,0,0,0.2)!important}
 	.ace_gutter , #bd-customcss-attach-controls {background-color: rgba(0,0,0,0.5)!important}
 
-	.ace_active-line {background-color: rgba(139,0,139,0.4) !important}
-	.ace_gutter-active-line {background-color: rgba(139,0,139,0.7)!important}
+	.ace_active-line {background-color: rgba(139,0,139,0.1) !important}
+	.ace_gutter-active-line {background-color: rgba(139,0,139,0.1)!important}
 
 	#bd-customcss-attach-controls {padding-left: 9px}
 	.checkbox-3kaeSU {padding-left: 1px}
@@ -258,7 +258,7 @@ a[target="_blank"] {color: purple;}
 
 	.react-datepicker__day:hover {background-color: purple!important}
 	.react-datepicker__day--disabled , .react-datepicker__day--outside-month {background-color: rgba(10,10,10,0.5)!important}
-	.react-datepicker__day--disabled:hover , .react-datepicker__day--outside-month:hover {background-color: rgba(139,0,139,0.5)!important}
+	.react-datepicker__day--disabled:hover , .react-datepicker__day--outside-month:hover {background-color: rgba(139,0,139,0.1)!important}
 	.react-datepicker__day--selected::after {background-color: purple!important}
 	.hintValue-29ny8Z {background-color: purple!important}
 
