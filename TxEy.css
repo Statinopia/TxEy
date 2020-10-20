@@ -1,10 +1,9 @@
 /*
-Theme Owned and Made by VaporousCreeper#9514, Edited By TxEy#0029
+Tema Yapimcisi TxEy#0029
   
-Background Img: https://cdn.discordapp.com/attachments/696874211012247572/768189788657549382/TxEy.png
-Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css
+Arkaplan Img: https://cdn.discordapp.com/attachments/696874211012247572/768189788657549382/TxEy.png
 
-The 2 items above are not owned by me, They go to there respected owners
+Tassakli Dedigin Adamlar Bu Temayi Kullanirlar!
 */
 
 :root{
@@ -18,10 +17,10 @@ The 2 items above are not owned by me, They go to there respected owners
 }
 
 
-/*Background Img*/
+/*Arkaplan Img*/
 #app-mount {background-image: var(--background)!important; background-position: center!important; background-size: cover!important; background-color: transparent!important;}
 
-/*Home*/
+/*Kaynak*/
 .tabBar-1E2ExX .primarySelected-3uHKZn {color: purple!important;}
 .topPill-30KHOu .selected-3s45Ha {background-color: purple!important; color: white!important;}
 
@@ -44,7 +43,7 @@ The 2 items above are not owned by me, They go to there respected owners
 .activityFeed-1C0EmJ {background-image: var(--transparency-1)!important; background-color: transparent!important;}
 .container-35JN_A , .wrapper-3UweLa , .recentlyPlayedContainer-2F3MqS , .outer-2IVh5n { background-color: rgba(100,100,100,0.3)!important}
 
-/*Servers*/
+/*Tema*/
 .theme-dark .acronym-2mOFsV {background-color: rgba(100,100,100,0.2);}
 .wrapper-1BJsBx {background-color: transparent!important}
 
@@ -69,30 +68,30 @@ The 2 items above are not owned by me, They go to there respected owners
 .circleIconButton-jET_ig {background-color: rgba(100,100,100,0.3)!important; color: white;}
 .circleIconButton-jET_ig:hover {background-color: rgba(139,0,139,0.1)!important;}
 
-/*Channels*/
+/*Kanallar*/
 .containerDefault-3GGEv_ {background-color: rgba(139,0,139,0.1); height: 30px; text-align: center; border-radius: 10px; padding: 5px 5px 0 5px;}
 
 .container-3baos1 , .container-1giJp5 {background-image: var(--transparency-1)!important; background-color: rgba(0,0,0,0)!important; margin-bottom: 0;}
 .panels-j1Uci_ {background-color: transparent;}
 
-	/*Text*/
+	/*Yazi Bicimi*/
 	.content-3at_AU {margin: 0; width: 200px; transition: width 0.2s; transition-timing-function: ease-in-out; background-color: rgba(50,50,50,0.15)}
 	.content-3at_AU:hover {width: 100%; background-color: rgba(50,50,50,0.3)!important}
 	.selected-37j_iU .content-3at_AU {margin: 0; width: 100%; background-color: rgba(50,50,50,0.6)!important;}
 	.wrapper-2NJDcI {background-color: rgba(50,50,50,0.3)}
 
-	/*Voice*/
+	/*Ses*/
 	.containerDefault-1ZnADq .modeConnected-2IEL4z div.content-3at_AU {width: 100%; background-color: rgba(50,50,50,0.6)!important;}
 	.containerDefault-1ZnADq .modeLocked-SZJhTy div.content-3at_AU,
 	.containerDefault-1ZnADq .modeMuted-3osy7j div.content-3at_AU {background-color: rgba(139,0,139,0.1)!important;}
 
 	.list-2bwCXU { padding-left: 10px; }
 
-		/*VC Info*/
+		/*VC Bilgi*/
 		.container-1UB9sr {background-color: rgba(0,0,0,0.55)!important; border: 0;}
 		.buttonDisconnect-3W_SJc {background-color: rgba(139,0,139,0.1)!important;}
 
-		/*VC User*/
+		/*VC Kullanici*/
 		.avatarSpeaking-3MqCHLt {box-shadow:0 0 0 2px purple; }
 
 		.voiceUser-14U_Ns {transition: margin 0.2s; transition-timing-function: ease-in-out; margin-left: 0; padding-right: 5px}
@@ -100,7 +99,7 @@ The 2 items above are not owned by me, They go to there respected owners
 
 		.voiceUser-14U_Ns .content-3xS9Lh:hover {background-color: transparent!important;}
 
-/*Messages*/
+/*Mesajlar*/
 .h1-1IDj26 {color: purple!important;}
 .hasMore-3e72_v button {background-color: rgba(50,50,50,0.5)!important; color: purple;}
 .wrapperHover-1GktnT , .mention {background-color: rgba(139,0,139,0.1)!important; color: purple!important;}
@@ -126,7 +125,7 @@ code , pre {background-color: rgba(50,50,50,0.3)!important}
 .newMessagesBar-mujexs:active {background-color: rgb(255,100,100)}
 
 
-/*ScrollBars*/
+/*Kaydirma Cubuklari*/
 ::-webkit-scrollbar-thumb {background-color: rgba(139,0,139,0.1)!important; border-color: transparent!important;}
 .messagesWrapper-3lZDfY ::-webkit-scrollbar-track-piece , .friendsTable-133bsv ::-webkit-scrollbar-track-piece , .gameLibrary-TTDw4Y ::-webkit-scrollbar-track-piece {background-color: transparent!important; border-color: transparent!important;}
 .messagesWrapper-3lZDfY ::-webkit-scrollbar-track , .friendsTable-133bsv ::-webkit-scrollbar-track , .gameLibrary-TTDw4Y ::-webkit-scrollbar-track {background-color: rgba(139,0,139,0.1)!important; border-radius: 10px; border-color: rgba(139,0,139,0.1)!important}
@@ -144,13 +143,13 @@ input[type=checkbox]:checked+span,.checkbox-1ix_J3{border-color:purple!important
 .leave-1DRJfn:hover {background-color: rgba(139,0,139,0.1)!important;}
 .invite-271nFU:hover {background-color: rgba(114,137,218,0.5)!important;}
 
-/*Server Members*/
+/*Server Kullanici*/
 .membersGroup-v9BXpm {background-color: rgba(0,0,0,0.5); margin: 20px 8px 0 16px; padding: 0; height: 20px; text-align: center; border-radius: 10px; color: purple!important;}
 .member-3W1lQa , .channel-2QD9_O a {margin-left: 0px; border-radius: 50px 0 0 50px!important; transition: margin 0.2s; transition-timing-function: ease-in-out;}
 .member-3W1lQa:hover , .channel-2QD9_O a:hover {background-color: rgba(50,50,50,0.6)!important; margin-left: 15px}
 .popout-open.member-3W1lQa {background-color: rgba(100,100,100,0.6)!important; margin-left: 15px}
 
-/*Inputs*/
+/*Girisler*/
 .lookFilled-1Gx00P, .valueChecked-m-4IJZ, .bd-pfbtn, .checked, .bda-settings-button , .addButton-pcyyf6 , .tabBar-1E2ExX .primary-3j8BhM , .da-selected[style*="rgb(114, 137, 218)"] {background-color: purple!important;}
 .barFill-23-gu- , .itemSelected-1qLhcL.da-role {background-color: purple}
 .inputDefault-_djjkz:focus , .focused-1mmYsC {border-color: purple!important}
@@ -171,7 +170,7 @@ polyline[stroke='#7289da']{stroke:purple}
 .selected-mKYnfr {background-color: purple!important;}
 .da-disabled {background-color: transparent!important;}
 
-/*Settings*/
+/*Ayarlar*/
 .sidebar-CFHs9e .side-8zPYf6 .item-PXvHYJ, .ui-tab-bar-item {line-height:15px!important; background-color: rgba(150,150,150,0.07); width: 100%; transition: width 0.2s; transition-timing-function: ease-in-out;}
 .sidebar-CFHs9e .side-8zPYf6 .item-PXvHYJ:hover, .ui-tab-bar-item:hover {background-color: rgba(150,150,150,0.2)!important; width:187px;}
 .sidebar-CFHs9e .side-8zPYf6 .selected-3s45Ha, .ui-tab-bar-item.selected {line-height:15px!important; background-color: rgba(150,150,150,0.4)!important; width:187px;}
@@ -216,7 +215,7 @@ a[target="_blank"] {color: purple;}
 	#bd-customcss-detach-container {background-color: rgba(0,0,0,0.7)}
 	#editor-detached button {background-color: purple!important}
 
-/*ChangeLog And Other Popups*/
+/*Degişiklik Gunlugu ve Diger Acilir Pencereler*/
 .modal-yWgWj- , .bd-modal-inner , .messagesPopoutWrap-1MQ1bW , .messageGroupWrapper-o-Zw7G , .container-3ayLPN , .searchResultsWrap-2DKFzt , .quickswitcher-3JagVE , 
 .react-datepicker , .popoutList-T9CKZQ , .bd-modal-body , .root-1gCeng {background-color: rgba(25,25,25,0.5)!important; border-radius: 10px!important;}
 .footer-3rDWdC , .footer-3mqk7D  {background-color: rgba(0,0,0,0.5)!important; border-radius: 0 0 10px 10px;}
@@ -237,7 +236,7 @@ a[target="_blank"] {color: purple;}
 
 	.activityName-1IaRLn {color: white!important;}
 	
-	/*Upload Popup*/
+	/*Popup Yukle*/
 	.uploadModal-2ifh8j , .bgScale-1otPtc {background-color: rgba(50,50,50,0.5)!important}
 	.inner-3nWsbo {border-color: transparent!important;}
 	button.lookFilled-1Gx00P[type=submit] {color: white!important;}
@@ -248,7 +247,7 @@ a[target="_blank"] {color: purple;}
 	.instructions-2Du9gG pre {background-color: transparent!important;}
 	.uploadDropModal-2kTwbc.error-kKl9o2 {background-color: rgba(240, 71, 71,0.5)!important;}
 
-	/*Search Popup*/
+	/*Popup Ara*/
 	.searchHeader-1l-wpR , .header-ykumBX {background-color: rgba(50,50,50,0.5)!important; border-radius: 10px 10px 0 0!important;}
 	.option-96V44q.selected-rZcOL- , .message-2qRu38 , .dockItem-2kQDqg:hover , .card-7JP0BX , .hit-NLlWXA {background-color: rgba(100,100,100,0.5)!important; border-radius: 10px;}
 	.channelName-1QajIf {background-color: transparent!important;}
@@ -262,7 +261,7 @@ a[target="_blank"] {color: purple;}
 	.react-datepicker__day--selected::after {background-color: purple!important}
 	.hintValue-29ny8Z {background-color: purple!important}
 
-	/*Join & Create Server Popup*/
+	/*Katil ve Sunucu Acilir Penceresi Olustur*/
 	.animator-US5i9g .modal-3HD5ck {background-color: transparent!important}
 	.animator-US5i9g {border-radius: 10px; background-color: rgba(25,25,25,0.5)!important}
 	.action-1lSjCi {background-color: white!important;}
@@ -273,7 +272,7 @@ a[target="_blank"] {color: purple;}
 	input[placeholder="Enter a server name"]:focus {border-color: rgb(114, 137, 218)!important;}
 	a[href="//discordapp.com/guidelines"] {color: rgb(114, 137, 218)!important;}
 
-	/*Emoji Picker Popup*/
+	/*Emoji Secici Acilir Penceresi*/
 	.emojiPicker-3m1S-j , #bda-qem , #bda-qem-twitch-container , #bda-qem-favourite-container {background-color: rgba(0,0,0,0.5)!important; border: 0;}
 	.header-1nkwgG {background-color: rgba(0,0,0,0.5)!important;}
 	.searchBarInner-1_Tg2R {background-color: rgba(50,50,50,0.5)!important}
@@ -307,7 +306,7 @@ a[target="_blank"] {color: purple;}
 .wordmark-2iDDfm {top: 3.3px;}
 .winButton-iRh8-Z {top: 1px;}
 
-/*Main Login*/
+/*Ana Giris*/
 .splashBackground-1FRCko .image-2jyRAK , .splashBackground-1FRCko canvas {display: none;}
 .splashBackground-1FRCko {background-image: none;}
 
@@ -341,6 +340,6 @@ a[target="_blank"] {color: purple;}
   }
 }
 
-/*Other*/
+/*Diger Komutlar*/
 .selected-1HYmZZ a {background-color: rgba(150,150,150,0.4)!important; margin-left: 15px}
 #app-mount .app-2rEoOp {background-color: transparent;}
